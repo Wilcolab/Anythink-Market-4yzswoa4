@@ -159,7 +159,7 @@ export default UserProfile;
 - Write tests for all new features
 - Use pytest fixtures for common setup
 - Test both success and failure cases
-- Aim for high test coverage (project target: 100%)
+- Aim for high test coverage (project target: 80%+)
 
 ```python
 def test_user_registration_success(client, test_user):
